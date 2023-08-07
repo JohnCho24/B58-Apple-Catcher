@@ -29,13 +29,13 @@
 #
 #
 # Link to video demonstration for final submission:
-# - (insert YouTube / MyMedia / other URL here). Make sure we can view it!
+# - https://drive.google.com/file/d/1dY0tZhjBxRMvhhBcf9kNp0CMxSCXcxkI/view?usp=drive_link
 #
 # Are you OK with us sharing the video with people outside course staff?
-# - yes, and please share this project github link as well!
+# - yes, https://github.com/JohnCho24/B58-Apple-Catcher
 #
 # Any additional information that the TA needs to know:
-# - (write here, if any)
+# - Forgot to include that there's natural gravity for all objects
 #
 #####################################################################
 
