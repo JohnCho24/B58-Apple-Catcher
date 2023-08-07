@@ -34,9 +34,6 @@
 # Are you OK with us sharing the video with people outside course staff?
 # - yes, https://github.com/JohnCho24/B58-Apple-Catcher
 #
-# Any additional information that the TA needs to know:
-# - Forgot to include that there's natural gravity for all objects
-#
 #####################################################################
 
 # $t3 keeps track of point location
