@@ -7,8 +7,8 @@ Points are tracked by pink pixels displayed in the top left (each pixel that app
 Movement of the basket is done by pressing a (left), d (right), and w (jump)
 
 Apples and sticks randomly fall from the tree:
-  Red apples are 1 point
-  Gold apples are 5 points
+  Red apples are 1 point,
+  Gold apples are 5 points,
   Sticks are -1 life
 
 When the player has no lives remaining, they will be directed to an end screen displaying their total points.
